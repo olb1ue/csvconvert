@@ -2,5 +2,5 @@ require 'sinatra'
 
 
 get '/' do
-  puts 'coming soon'
+  'coming soon'
 end
